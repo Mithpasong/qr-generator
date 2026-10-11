@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller 빌드 결과
+build/
+dist/
+*.spec
+*.exe
+
+# 아이콘
+icon.ico
