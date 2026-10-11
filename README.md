@@ -28,7 +28,16 @@
 | 👀 **실시간 미리보기** | 입력과 옵션을 바꾸면 바로 반영됩니다. 체크무늬 배경으로 투명 영역을 확인할 수 있습니다 |
 | 📏 **크기 조절** | 모듈 크기(px)와 여백(모듈 수)을 조절해서 출력 해상도를 맞출 수 있습니다 |
 
-## 🚀 실행하기
+## ⬇️ 다운로드 (Windows)
+
+Python 없이 바로 실행할 수 있는 exe 파일을 제공합니다.
+
+1. [**Releases**](https://github.com/Mithpasong/qr-generator/releases/latest)에서 `QR-generator-vX.X.X-windows.zip`을 받습니다.
+2. 압축을 풀고 `QR-generator.exe`를 실행합니다.
+
+> 서명되지 않은 프로그램이라 처음 실행할 때 Windows SmartScreen 경고가 뜰 수 있습니다. **추가 정보 → 실행**을 누르면 됩니다.
+
+## 🚀 소스로 실행하기
 
 Python 3.10 이상이 필요합니다.
 
